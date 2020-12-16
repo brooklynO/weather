@@ -1,0 +1,27 @@
+html {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  text-align: center;
+  color: #FFF;
+  background: #43C6AC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #191654, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #191654, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+body {
+  margin: 0 auto;
+  text-color: #FFF;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-family: Monospace; 
+  font-size: 20px;
+}
